@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "b13adff954f0096d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c69f1bbc91322e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc4bc9d8a2dc3d33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Daily/2024-12-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-22"
+            }
+          },
+          {
+            "id": "a970bdc216bf12f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02_Daily/2024-12-22.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2024-12-22"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3e290ba104d279e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "27c67d26416832c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b28fc89e1c28ee7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "318cb940bcf2720a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "検索"
+            }
+          },
+          {
+            "id": "4ab9bd0415ce76e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "ブックマーク"
+            }
+          },
+          {
+            "id": "836f25dd3ae119e7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 224.5
+  },
+  "right": {
+    "id": "13f5c992a45bb62c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5db3e1517e2d3d0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c68453d19ddaf63a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "01_Inbox/PC購入時の初期設定まとめ.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "PC購入時の初期設定まとめへのバックリンク"
+            }
+          },
+          {
+            "id": "8b64012cfefd9330",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "アウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "61b59c1b0000ddf4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "d6125d3c133fb504",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "02_Daily/2024-12-22.md"
+              },
+              "icon": "lucide-list",
+              "title": "2024-12-22のアウトライン"
+            }
+          },
+          {
+            "id": "9970e83f1bcf6e52",
+            "type": "leaf",
+            "state": {
+              "type": "TwoHopLinksView",
+              "state": {},
+              "icon": "network",
+              "title": "2Hop Links"
+            }
+          },
+          {
+            "id": "fd9e0dfe50b2ba92",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "workspaces:ワークスペースレイアウトを管理": false,
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false
+    }
+  },
+  "active": "a970bdc216bf12f4",
+  "lastOpenFiles": [
+    "01_Inbox/PC購入時の初期設定まとめ.md",
+    "02_Daily/2024-12-22.md",
+    "01_Inbox/Chrome.md",
+    "01_Inbox/fish.md",
+    "01_Inbox/VS Code.md",
+    "01_Inbox/aaa.md"
+  ]
+}
