@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-12-22",
-      "path": "02_Daily/2024-12-22.md"
+      "basename": "Volta",
+      "path": "01_Inbox/Volta.md"
     },
     {
       "basename": "PC購入時の初期設定まとめ",
       "path": "01_Inbox/PC購入時の初期設定まとめ.md"
+    },
+    {
+      "basename": "Bitwarden",
+      "path": "01_Inbox/Bitwarden.md"
+    },
+    {
+      "basename": "VS Code",
+      "path": "01_Inbox/VS Code.md"
+    },
+    {
+      "basename": "2024-12-22",
+      "path": "02_Daily/2024-12-22.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     }
   ],
   "omittedPaths": [],
