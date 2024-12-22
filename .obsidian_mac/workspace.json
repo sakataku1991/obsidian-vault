@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inbox/Volta.md",
+                "file": "01_Inbox/PC購入時の初期設定まとめ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Volta"
+              "title": "PC購入時の初期設定まとめ"
             }
           }
         ]
@@ -148,10 +148,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Inbox/Volta.md"
+                "file": "01_Inbox/PC購入時の初期設定まとめ.md"
               },
               "icon": "lucide-list",
-              "title": "Voltaのアウトライン"
+              "title": "PC購入時の初期設定まとめのアウトライン"
             }
           },
           {
@@ -195,10 +195,11 @@
   },
   "active": "cc4bc9d8a2dc3d33",
   "lastOpenFiles": [
-    "01_Inbox/PC購入時の初期設定まとめ.md",
+    "01_Inbox/Yarn.md",
     "01_Inbox/Volta.md",
-    "01_Inbox/Bitwarden.md",
+    "01_Inbox/PC購入時の初期設定まとめ.md",
     "01_Inbox/VS Code.md",
+    "01_Inbox/Bitwarden.md",
     "02_Daily/2024-12-22.md",
     "README.md",
     "01_Inbox/Chrome.md",
