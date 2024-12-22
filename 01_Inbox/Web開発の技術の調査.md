@@ -1,0 +1,3 @@
+- 一応Web系エンジニアなので、日々Web関係の技術をリサーチしているよ
+- 以下の Google スプレッドシートに調べた技術の情報を色々まとめている
+	- [Web開発の技術の調査 - Google スプレッドシート](https://docs.google.com/spreadsheets/d/1_m8wYxZTY5cahlgvF3MCRlQTToHFKripQnCMs6wBtqE/edit?usp=sharing)
