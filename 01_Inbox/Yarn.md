@@ -1,5 +1,5 @@
 ## 概要
-- 「Node.js」用のパッケージ管理ツール
+- `Node.js` 用のパッケージ管理ツール
 
 ## 初期設定
 1. ターミナルで以下のコマンドを実行し、`Yarn`（LTS版）をインストールする。
@@ -24,7 +24,7 @@ volta list yarn
 
 `$ volta pin yarn@<Yarn のバージョン番号>`
 
-`例）`
+`例）`  
 `$ volta pin yarn@4.5.3`
 
 ```Shell
