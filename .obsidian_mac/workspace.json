@@ -25,13 +25,14 @@
             "id": "7002038447825667",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian_mac/plugins/recent-files-obsidian/data.json",
-                "staged": false
+                "file": "02_Daily/2024-12-29.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (data.json)"
+              "icon": "lucide-file",
+              "title": "2024-12-29"
             }
           }
         ],
@@ -210,6 +211,7 @@
   "active": "7002038447825667",
   "lastOpenFiles": [
     "01_Inbox/Yarn.md",
+    "02_Daily/2024-12-29.md",
     "01_Inbox/PC購入時の初期設定まとめ.md",
     "01_Inbox/Chrome.md",
     "01_Inbox/Bitwarden.md",
