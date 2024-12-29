@@ -30,11 +30,14 @@ write command here
 - [ ] ジョブ名とステップ名（`name:`）の設定
 	- [ ] 設定しておくと GitHub Actions のログが見やすくなる
 - [ ] 適切なパーミッション（`permissions`）の設定
+- [ ] ワークフローの発動条件を絞る
+	- [ ] イベントのフィルタリング＋Glob
+	- [ ] アクティビティタイプの指定
+- [ ] タイムアウトの設定
 
 ## 注意点のメモ
 - パーミッション、ソースコードの読み込みは暗黙的に許可されている
 	- 何らかのパーミッションを記述する際には、ソースコードの読み込みにも明示的な許可が必要になってくる！
-
 ```YAML
     permissions:
       pull-requests: write
@@ -45,3 +48,21 @@ write command here
 - アクション
 	- `actions/checkout`
 		- リポジトリからソースコードを取得する
+- ワークフローの発動条件の設定方法
+	- イベントのフィルタリング
+		- `paths`
+			- 指定したファイルパスのみ
+		- `paths-ignore`
+			- 指定したファイルパス以外
+		- `branches`
+			- 指定したブランチのみ
+		- `branches-ignore`
+			- 指定したブランチ以外
+		- `tags`
+			- 指定した Git タグのみ
+		- `tags-ignore`
+			- 指定した Git タグ以外
+	- Glob
+	- アクティビティタイプ
+		- `types: [opened, edited]`
+	- if 文
