@@ -42,3 +42,6 @@ write command here
 ```
 - GitHub Actions 作成時、パーミッション関係でエラーになってしまうことがよくあるらしい
 	- 使用しているアクションの README で必要なパーミッションを確認しよう！
+- アクション
+	- `actions/checkout`
+		- リポジトリからソースコードを取得する
