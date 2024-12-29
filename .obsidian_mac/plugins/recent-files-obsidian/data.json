@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "無題のファイル",
-      "path": "01_Inbox/無題のファイル.md"
+      "basename": "Yarn",
+      "path": "01_Inbox/Yarn.md"
     },
     {
       "basename": "2024-12-29",
       "path": "02_Daily/2024-12-29.md"
     },
     {
-      "basename": "Yarn",
-      "path": "01_Inbox/Yarn.md"
+      "basename": "2024-12-22",
+      "path": "02_Daily/2024-12-22.md"
+    },
+    {
+      "basename": "GitHub Actions のプログラミングノート",
+      "path": "01_Inbox/GitHub Actions のプログラミングノート.md"
     },
     {
       "basename": "PC購入時の初期設定まとめ",
@@ -25,10 +29,6 @@
       "path": "01_Inbox/Bitwarden.md"
     },
     {
-      "basename": "2024-12-23",
-      "path": "02_Daily/2024-12-23.md"
-    },
-    {
       "basename": "Web開発の技術の調査",
       "path": "01_Inbox/Web開発の技術の調査.md"
     },
@@ -39,10 +39,6 @@
     {
       "basename": "VS Code",
       "path": "01_Inbox/VS Code.md"
-    },
-    {
-      "basename": "2024-12-22",
-      "path": "02_Daily/2024-12-22.md"
     },
     {
       "basename": "README",

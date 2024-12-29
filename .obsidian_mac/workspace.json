@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Inbox/GitHub Actions のプログラミングノート.md",
+                "file": "01_Inbox/Yarn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Actions のプログラミングノート"
+              "title": "Yarn"
             }
           }
         ],
@@ -225,16 +225,16 @@
   "active": "e8f7e0c7bb00dfac",
   "lastOpenFiles": [
     "02_Daily/2024-12-29.md",
+    "02_Daily/2024-12-22.md",
+    "02_Daily/2024-12-23.md",
     "01_Inbox/GitHub Actions のプログラミングノート.md",
     "01_Inbox/Yarn.md",
     "01_Inbox/PC購入時の初期設定まとめ.md",
     "01_Inbox/Chrome.md",
     "01_Inbox/Bitwarden.md",
-    "02_Daily/2024-12-23.md",
     "01_Inbox/Web開発の技術の調査.md",
     "01_Inbox/Volta.md",
     "01_Inbox/VS Code.md",
-    "02_Daily/2024-12-22.md",
     "README.md",
     "01_Inbox/fish.md",
     "01_Inbox/aaa.md"
