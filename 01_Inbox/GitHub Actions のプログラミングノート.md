@@ -149,6 +149,9 @@ jobs:
 	- [ ] `Dependabot` そのものの有効化
 	- [ ] `Dependabot` が作成した PR の自動マージ設定
 - [ ] `GitHub Actions` の実装
+- [ ] `Dependency graph` の有効化（※プライバシーリポジトリの場合、自分で有効化する必要がある！）
+- [ ] `Dependabot alerts` の有効化
+- [ ] `Dependabot security updates` の有効化
 
 ## やりたい章
 - 16章
