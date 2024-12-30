@@ -79,23 +79,23 @@ concurrency:
 
 jobs:
   example:
-  # もっとも安価なUbuntuランナーを利用
-  runs-on: ubuntu-latest
-  # 6時間も待たされないようにタイムアウトを設定
-  timeout-minutes: 5
-  # ジョブレベルで必要最小限のパーミッションを定義
-  permissions:
-    contents: read
-  steps:
-    # アクションはコミットハッシュで固定
-    - name: Checkout
-    uses: actions/checkout@eef61447b9ff4aafe5dcd4e0bbf5d482be7e7871 # v4.2.1
+    # もっとも安価なUbuntuランナーを利用
+    runs-on: ubuntu-latest
+    # 6時間も待たされないようにタイムアウトを設定
+    timeout-minutes: 5
+    # ジョブレベルで必要最小限のパーミッションを定義
+    permissions:
+      contents: read
+    steps:
+      # アクションはコミットハッシュで固定
+      - name: Checkout
+        uses: actions/checkout@eef61447b9ff4aafe5dcd4e0bbf5d482be7e7871 # v4.2.1
 
-    # Bashトレーシングオプションの有効化でログを詳細化
-    - name: Run actionlint
-      run: |
-        set -x
-        docker run --rm -v "$(pwd):$(pwd)" -w "$(pwd)" rhysd/actionlint:1.7.3
+      # Bashトレーシングオプションの有効化でログを詳細化
+      - name: Run actionlint
+        run: |
+          set -x
+          docker run --rm -v "$(pwd):$(pwd)" -w "$(pwd)" rhysd/actionlint:1.7.3
 
 ```
 
