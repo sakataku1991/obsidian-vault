@@ -152,6 +152,8 @@ jobs:
 - [ ] `Dependency graph` の有効化（※プライバシーリポジトリの場合、自分で有効化する必要がある！）
 - [ ] `Dependabot alerts` の有効化
 - [ ] `Dependabot security updates` の有効化
+- [ ] 「ワークフロースキャン」の実装
+	- [ ] `.github/workflows/lint-github-actions.yml`
 - [ ] 「シークレットスキャン」の実装
 	- [ ] `.github/workflows/secret-scan.yml`
 - [ ] 「アプリケーションセキュリティ」の実装
