@@ -47,6 +47,7 @@ write command here
 	- [ ] `concurrency:` の指定
 - [ ] ターミナルで `actionlint` コマンドを実行し、実装したワークフローのコードを静的解析・検証する
 - [ ] Git タグの保護ルールを設定する
+- [ ] `Actions permissions` の設定
 
 ## 良いワークフローのコードのテンプレート
 ```YAML
