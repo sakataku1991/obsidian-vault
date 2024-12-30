@@ -144,7 +144,7 @@ jobs:
 
 ## 後でやる！（GitHub上に新しくリポジトリを作成した際に設定すること）
 - [ ] `Settings` の設定いろいろ
-- [ ] `CODEOWNERS` の設定
+- [x] `CODEOWNERS` の設定
 - [ ] `Dependabot` の設定
 	- [ ] `Dependabot` そのものの有効化
 	- [ ] `Dependabot` が作成した PR の自動マージ設定
