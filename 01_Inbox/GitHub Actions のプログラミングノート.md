@@ -135,4 +135,6 @@ jobs:
 - [ ] `Settings` の設定いろいろ
 - [ ] `CODEOWNERS` の設定
 - [ ] `Dependabot` の設定
+	- [ ] `Dependabot` そのものの有効化
+	- [ ] `Dependabot` が作成した PR の自動マージ設定
 - [ ] `GitHub Actions` の実装
