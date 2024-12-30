@@ -153,5 +153,10 @@ jobs:
 - [ ] `Dependabot alerts` の有効化
 - [ ] `Dependabot security updates` の有効化
 - [ ] 「シークレットスキャン」の実装
+	- [ ] `.github/workflows/secret-scan.yml`
 - [ ] 「アプリケーションセキュリティ」の実装
+	- [ ] `.github/workflows/static-application-security-testing.yml`
 - [ ] 「コンテナイメージの脆弱性スキャン（`Trivy`）」の実装
+	- [ ] `.github/workflows/container-image-scan.yml`
+	- [ ] Docker ファイル変更時のスキャン実行
+	- [ ] 定期的なスキャン実行
