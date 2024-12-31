@@ -153,9 +153,9 @@ jobs:
 - [x] `Dependabot alerts` の有効化
 - [x] `Dependabot security updates` の有効化
 - [x] 「ワークフロースキャン」の実装
-	- [ ] `.github/workflows/lint-github-actions.yml`
-- [ ] 「シークレットスキャン」の実装
-	- [ ] `.github/workflows/secret-scan.yml`
+	- [x] `.github/workflows/lint-github-actions.yml`
+- [x] 「シークレットスキャン」の実装
+	- [x] `.github/workflows/scan-secrets.yml`
 - [ ] 「アプリケーションセキュリティ」の実装
 	- [ ] `.github/workflows/static-application-security-testing.yml`
 - [ ] 「コンテナイメージの脆弱性スキャン（`Trivy`）」の実装
