@@ -162,3 +162,5 @@ jobs:
 	- [ ] `.github/workflows/container-image-scan.yml`
 	- [ ] Docker ファイル変更時のスキャン実行
 	- [ ] 定期的なスキャン実行
+- [x] 「PRのアサイニーの自動アサイン」の実装
+	- [x] `.github/workflows/auto-assign-pr-assignees.yml`
