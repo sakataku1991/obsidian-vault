@@ -146,21 +146,22 @@ jobs:
 - [ ] `Settings` の設定いろいろ
 - [x] `CODEOWNERS` の設定
 - [ ] `Dependabot` の設定
-	- [ ] `Dependabot` そのものの有効化
+	- [x] `Dependabot` そのものの有効化
 	- [ ] `Dependabot` が作成した PR の自動マージ設定
-- [ ] `GitHub Actions` の実装
+		- [ ] `.github/workflows/auto-patch-merge.yml`
 - [x] `Dependency graph` の有効化（※プライバシーリポジトリの場合、自分で有効化する必要がある！）
 - [x] `Dependabot alerts` の有効化
 - [x] `Dependabot security updates` の有効化
-- [x] 「ワークフロースキャン」の実装
-	- [x] `.github/workflows/lint-github-actions.yml`
-- [x] 「シークレットスキャン」の実装
-	- [x] `.github/workflows/scan-secrets.yml`
-- [ ] 「アプリケーションセキュリティ」の実装
-	- [ ] `.github/workflows/static-application-security-testing.yml`
-- [ ] 「コンテナイメージの脆弱性スキャン（`Trivy`）」の実装
-	- [ ] `.github/workflows/container-image-scan.yml`
-	- [ ] Docker ファイル変更時のスキャン実行
-	- [ ] 定期的なスキャン実行
-- [x] 「PRのアサイニーの自動アサイン」の実装
-	- [x] `.github/workflows/auto-assign-pr-assignees.yml`
+- [ ] `GitHub Actions` の実装
+	- [x] 「ワークフロースキャン」の実装
+		- [x] `.github/workflows/lint-github-actions.yml`
+	- [x] 「シークレットスキャン」の実装
+		- [x] `.github/workflows/scan-secrets.yml`
+	- [ ] 「アプリケーションセキュリティ」の実装
+		- [ ] `.github/workflows/static-application-security-testing.yml`
+	- [ ] 「コンテナイメージの脆弱性スキャン（`Trivy`）」の実装
+		- [ ] `.github/workflows/container-image-scan.yml`
+		- [ ] Docker ファイル変更時のスキャン実行
+		- [ ] 定期的なスキャン実行
+	- [x] 「PRのアサイニーの自動アサイン」の実装
+		- [x] `.github/workflows/auto-assign-pr-assignees.yml`
