@@ -58,6 +58,9 @@ test(テストタイトル, テスト関数);
 	- `toBe`
 - 例外スロー
 	- `toThrow`
+- 真偽値の検証
+	- `toBeTruthy`
+- 
 
 
 
