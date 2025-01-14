@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Jest のプログラミングノート",
-      "path": "01_Inbox/Jest のプログラミングノート.md"
-    },
-    {
-      "basename": "2025-01-01",
-      "path": "02_Daily/2025-01-01.md"
+      "basename": "bash（シェルスクリプト） のプログラミングノート",
+      "path": "01_Inbox/bash（シェルスクリプト） のプログラミングノート.md"
     },
     {
       "basename": "GitHub Actions のプログラミングノート",
       "path": "01_Inbox/GitHub Actions のプログラミングノート.md"
+    },
+    {
+      "basename": "Mac・ターミナルで実行するとよい設定コマンド無題のファイル",
+      "path": "01_Inbox/Mac・ターミナルで実行するとよい設定コマンド無題のファイル.md"
+    },
+    {
+      "basename": "macOS でのパスの通し方",
+      "path": "01_Inbox/macOS でのパスの通し方.md"
+    },
+    {
+      "basename": "プログラミング一般に共通する知識",
+      "path": "01_Inbox/プログラミング一般に共通する知識.md"
+    },
+    {
+      "basename": "Jest のプログラミングノート",
+      "path": "01_Inbox/Jest のプログラミングノート.md"
     },
     {
       "basename": "PC購入時の初期設定まとめ",
@@ -23,10 +35,6 @@
     {
       "basename": "Yarn",
       "path": "01_Inbox/Yarn.md"
-    },
-    {
-      "basename": "2024-12-22",
-      "path": "02_Daily/2024-12-22.md"
     },
     {
       "basename": "Chrome",
