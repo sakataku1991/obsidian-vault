@@ -31,6 +31,8 @@
 	- クリック時／タップ時（`Pressed` , `Active`）
 	- フォーカス時（`Focused`）
 	- 非活性時（`Disabled`）
+	- コンテンツの量とサイズの考慮（`Maximum content width`）
+		- 最大文字数など
 - 種類（`Type`）
 - デバイス（`Device`）
 	- スマホ（`SP`）
