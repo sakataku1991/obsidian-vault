@@ -18,6 +18,7 @@
 	- 線の色
 7. 角丸（`shape`）
 	- 角の丸み（`border-radius`）
+8. アイコンのサイズ（`IconContainer` , `Size`）
 
 ## コンポーネントのプロパティ
 - 状態（`State`）
