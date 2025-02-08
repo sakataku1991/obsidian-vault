@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "2025-02-08",
+      "path": "02_Daily/2025-02-08.md"
+    },
+    {
+      "basename": "bash（シェルスクリプト） のプログラミングノート",
+      "path": "01_Inbox/bash（シェルスクリプト） のプログラミングノート.md"
+    },
+    {
       "basename": "2025-01-22",
       "path": "02_Daily/2025-01-22.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "GitHub Actions のプログラミングノート",
       "path": "01_Inbox/GitHub Actions のプログラミングノート.md"
-    },
-    {
-      "basename": "bash（シェルスクリプト） のプログラミングノート",
-      "path": "01_Inbox/bash（シェルスクリプト） のプログラミングノート.md"
     },
     {
       "basename": "macOS でのパスの通し方",
