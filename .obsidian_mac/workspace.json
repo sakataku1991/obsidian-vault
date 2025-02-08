@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "2025-02-08"
             }
+          },
+          {
+            "id": "11e0c30a3fb53a17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Inbox/Figma⇄GitHub間でデザイントークンを自動的に同期させる方法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Figma⇄GitHub間でデザイントークンを自動的に同期させる方法"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,9 +223,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "144e3194618a9f7e",
+  "active": "11e0c30a3fb53a17",
   "lastOpenFiles": [
     "02_Daily/2025-02-08.md",
+    "01_Inbox/Figma⇄GitHub間でデザイントークンを自動的に同期させる方法.md",
     "02_Daily/2025-01-22.md",
     "01_Inbox/Figmaでデザインを作成する際のデザイントークンの定義順序.md",
     "01_Inbox/GitHub Actions のプログラミングノート.md",
