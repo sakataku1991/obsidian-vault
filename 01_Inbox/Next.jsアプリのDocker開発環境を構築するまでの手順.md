@@ -34,10 +34,7 @@
 		- Would you like to customize the import alias (`@/*` by default)?: `No`
 9. 作成した Next アプリのディレクトリの中に移動する
 	- `cd tax`
-10. Node.js のバージョンを設定する
-	- `volta pin node@20.x.x`
-	- `node -v`
-11. Next アプリを起動する
+10. Next アプリを起動する
 	- `pnpm dev`
-12. 
+11. 
 
