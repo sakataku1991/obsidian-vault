@@ -13,6 +13,10 @@
 	- `volta install node@20.x.x`
 	- `volta pin node@20.x.x`
 	- `node -v`
+	- `volta list pnpm`
+	- `volta install pnpm@10.x.x`
+	- `volta pin pnpm@20.x.x`
+	- `pnpm -v`
 6. フロントエンドのアプリを管理する用のディレクトリを新規作成する
 	- `mkdir frontend`
 7. ターミナルで、作成したプロジェクト用のディレクトリの中に移動する
@@ -28,7 +32,12 @@
 		- Would you like to use App Router? (recommended): `Yes`
 		- Would you like to use Turbopack for `next dev`?: `Yes`
 		- Would you like to customize the import alias (`@/*` by default)?: `No`
-9. Next アプリを起動する
+9. 作成した Next アプリのディレクトリの中に移動する
+	- `cd tax`
+10. Node.js のバージョンを設定する
+	- `volta pin node@20.x.x`
+	- `node -v`
+11. Next アプリを起動する
 	- `pnpm dev`
-10. 
+12. 
 
