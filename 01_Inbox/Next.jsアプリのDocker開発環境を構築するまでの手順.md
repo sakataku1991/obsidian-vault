@@ -4,21 +4,30 @@
 	- `mkdir furusato`
 2. ターミナルで、作成したプロジェクト用のディレクトリの中に移動する
 	- `cd furusato`
-3. フロントエンドのアプリを管理する用のディレクトリを新規作成する
-	- `mkdir frontend`
-4. ターミナルで、作成したプロジェクト用のディレクトリの中に移動する
-	- `cd frontend`
-5. 今回作成する Next アプリ用のディレクトリを新規作成する
-	- `mkdir tax`
-6. ターミナルで、作成した Next アプリ用のディレクトリの中に移動する
-	- `cd tax`
-7. Node.js のバージョン管理ツールと Node.js のバージョンを設定する
+3. git の初期化をする
+	- `git init`
+4. 初回の空コミットをする
+	- `git commit --allow-empty -m "first commit"`
+5. Node.js のバージョン管理ツールと Node.js のバージョンを設定する
 	- `volta list node`
 	- `volta install node@20.x.x`
 	- `volta pin node@20.x.x`
 	- `node -v`
+6. フロントエンドのアプリを管理する用のディレクトリを新規作成する
+	- `mkdir frontend`
+7. ターミナルで、作成したプロジェクト用のディレクトリの中に移動する
+	- `cd frontend`
 8. Next アプリを新規作成する
 	- `npx create-next-app@latest`
+	- 設定項目
+		- What is your project named?: `tax`
+		- Would you like to use TypeScript?: `Yes`
+		- Would you like to use ESLint?: `Yes`
+		- Would you like to use Tailwind CSS?: `Yes`
+		- Would you like your code inside a `src/` directory?: `Yes`
+		- Would you like to use App Router? (recommended): `Yes`
+		- Would you like to use Turbopack for `next dev`?: `Yes`
+		- Would you like to customize the import alias (`@/*` by default)?: `No`
 9. Next アプリを起動する
 	- `pnpm dev`
 10. 
