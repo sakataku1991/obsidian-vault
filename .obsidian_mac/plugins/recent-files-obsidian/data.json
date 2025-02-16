@@ -5,6 +5,18 @@
       "path": "01_Inbox/無題のファイル.md"
     },
     {
+      "basename": "デザインシステム・考え方",
+      "path": "01_Inbox/デザインシステム・考え方.md"
+    },
+    {
+      "basename": "Figma⇄GitHub間でデザイントークンを自動的に同期させる方法",
+      "path": "01_Inbox/Figma⇄GitHub間でデザイントークンを自動的に同期させる方法.md"
+    },
+    {
+      "basename": "Figmaでデザインを作成する際のデザイントークンの定義順序",
+      "path": "01_Inbox/Figmaでデザインを作成する際のデザイントークンの定義順序.md"
+    },
+    {
       "basename": "学習するものリスト",
       "path": "01_Inbox/学習するものリスト.md"
     },
@@ -25,20 +37,12 @@
       "path": "01_Inbox/macOS でのパスの通し方.md"
     },
     {
-      "basename": "Figma⇄GitHub間でデザイントークンを自動的に同期させる方法",
-      "path": "01_Inbox/Figma⇄GitHub間でデザイントークンを自動的に同期させる方法.md"
-    },
-    {
       "basename": "2025-02-08",
       "path": "02_Daily/2025-02-08.md"
     },
     {
       "basename": "2025-01-22",
       "path": "02_Daily/2025-01-22.md"
-    },
-    {
-      "basename": "Figmaでデザインを作成する際のデザイントークンの定義順序",
-      "path": "01_Inbox/Figmaでデザインを作成する際のデザイントークンの定義順序.md"
     },
     {
       "basename": "GitHub Actions のプログラミングノート",
